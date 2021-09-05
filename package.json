@@ -1,14 +1,26 @@
 {
   "name": "note-taker",
   "version": "1.0.0",
-  "description": "",
+  "description": "Note Taker",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Bill Geng",
+  "license": "MIT",
   "dependencies": {
-    "express": "^4.16.4"
-  }
+    "express": "^4.17.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/billgeng/UT06-2021-BG-Challenge11.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "bugs": {
+    "url": "https://github.com/billgeng/UT06-2021-BG-Challenge11/issues"
+  },
+  "homepage": "https://github.com/billgeng/UT06-2021-BG-Challenge11#readme"
 }
