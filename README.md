@@ -4,6 +4,8 @@
 
 Create an application called Note Taker used to write and save notes.
 
+Link of deployed: https://still-crag-20851.herokuapp.com/
+
 ## Table of Contents
 
 - [Installation](#installation)
