@@ -21,7 +21,7 @@ npm init, npm i express
 
 npm express , node server.js
 
-![alt text](./public/assets/Screenshot for Note Taker from BG.png)
+![alt text](https://github.com/billgeng/UT06-2021-BG-Challenge11/blob/main/public/assets/Screenshot%20for%20Note%20Taker%20from%20BG.png)
 
 ## Badges
 
